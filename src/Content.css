@@ -1,0 +1,140 @@
+*{
+    font-family: futura-pt, Avenir, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.image-background{
+    background-image: url('../public/header.jpeg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.about-1{
+    width: 600px;
+    height: 600px;
+    /* margin-left: 8.3333vw; */
+    position: relative;
+    z-index: 1;
+    display: inline-block;
+}
+.about-1-img{
+    background-image: url('../public/photo-1.jpeg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 41.66667vw;
+    height: 41.66667vw;
+}
+.about-2{
+    width: 58.3333vw;
+    height: 58.3333vw;
+    left: 41.66667vw;
+    /* margin-right: 120px; */
+    background-color: #FBFFA7 ;
+    box-sizing: border-box;
+}
+.about-2-img{
+    background-image: url('../public/photo-2.jpeg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 33.33333vw;
+    left: 41.66667vw;
+    height: 25vw;
+}
+
+.about-3{
+    width: 840px;
+    height: 1080px;
+    /* left: 41.66667vw;
+    margin-right: 120px; */
+    background-color: #B6FFC0 ;
+    box-sizing: border-box;
+}
+.about-3a-img{
+    background-image: url('../public/photo-3.jpeg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 33.33333vw;
+    left: 41.66667vw;
+    height: 25vw;
+}
+.about-3b-img{
+    background-image: url('../public/photo-4.jpeg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 33.33333vw;
+    left: 41.66667vw;
+    height: 25vw;
+}
+.about-4{
+    width: 600px;
+    height: 600px;
+}
+.about-4-img{
+    background-image: url('../public/photo-5.jpeg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 41.66667vw;
+    /* left: 41.66667vw; */
+    top: 15vw;
+    right: 10vw;
+    height: 41.66667vw;
+    vertical-align: middle;
+    display: inline-block;
+    position: relative;
+    z-index: 1;
+}
+.meet-the-makers{
+    background-image: url('../public/poster-meet-the-makers.jpeg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 1200px;
+    height: 675px;
+}   
+.about-6-img{
+    background-image: url('../public/photo-6-a.jpeg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width:480px;
+    height:360px;
+    margin-left: 9.8888vw;
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    z-index: 1;
+}
+.about-7-img{
+    background-image: url('../public/photo-7.jpeg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width:600px;
+    height:600px;
+    margin-left: 260px;
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    z-index: 1;
+}
+.about-8-img{
+    background-image: url('../public/photo-8.jpeg');
+    background-position:90%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width:600px;
+    height:600px;
+    margin-left: 120px;
+    display: inline-block;
+}
+.ableton{
+    background-image: url('../public/Ableton.svg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 188px;
+    height: 45px;
+}
